@@ -83,7 +83,6 @@ void memoryPort0TestFailNotification(uint32 groupSelect, uint32 dataSelect, uint
 {
 /*  enter user code between the USER CODE BEGIN and USER CODE END. */
 /* USER CODE BEGIN (5) */
-    return;
 /* USER CODE END */
 }
 
@@ -94,7 +93,6 @@ void memoryPort1TestFailNotification(uint32 groupSelect, uint32 dataSelect, uint
 {
 /*  enter user code between the USER CODE BEGIN and USER CODE END. */
 /* USER CODE BEGIN (7) */
-    return;
 /* USER CODE END */
 }
 
@@ -136,7 +134,6 @@ void dmaGroupANotification(dmaInterrupt_t inttype, uint32 channel)
 {
 /*  enter user code between the USER CODE BEGIN and USER CODE END. */
 /* USER CODE BEGIN (54) */
-    return;
 /* USER CODE END */
 }
 /* USER CODE BEGIN (55) */

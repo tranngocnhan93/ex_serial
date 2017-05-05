@@ -17,9 +17,6 @@ source/sys_main.obj: D:/1.Project/CCS_new/ex_serial/include/os_portmacro.h
 source/sys_main.obj: D:/1.Project/CCS_new/ex_serial/include/os_mpu_wrappers.h
 source/sys_main.obj: D:/1.Project/CCS_new/ex_serial/include/os_task.h
 source/sys_main.obj: D:/1.Project/CCS_new/ex_serial/include/os_list.h
-source/sys_main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/stdio.h
-source/sys_main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/linkage.h
-source/sys_main.obj: C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/stdarg.h
 
 ../source/sys_main.c: 
 D:/1.Project/CCS_new/ex_serial/include/sci.h: 
@@ -38,6 +35,3 @@ D:/1.Project/CCS_new/ex_serial/include/os_portmacro.h:
 D:/1.Project/CCS_new/ex_serial/include/os_mpu_wrappers.h: 
 D:/1.Project/CCS_new/ex_serial/include/os_task.h: 
 D:/1.Project/CCS_new/ex_serial/include/os_list.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/stdio.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/linkage.h: 
-C:/ti/ccsv7/tools/compiler/ti-cgt-arm_16.9.1.LTS/include/stdarg.h: 

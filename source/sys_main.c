@@ -46,7 +46,6 @@
 #include "sci.h"
 #include "FreeRTOS.h"
 #include "os_task.h"
-#include <stdio.h>
 /* USER CODE END */
 
 /* Include Files */
@@ -79,6 +78,8 @@ int main(void)
     while(1){
     }
 /* USER CODE END */
+
+    return 0;
 }
 
 
